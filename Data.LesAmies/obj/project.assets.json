@@ -2922,11 +2922,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Site Dani\\Front.LesAmies\\Data.LesAmies\\Data.LesAmies.csproj",
+      "projectUniqueName": "D:\\Site Dani\\Lesamies\\Data.LesAmies\\Data.LesAmies.csproj",
       "projectName": "Data.LesAmies",
-      "projectPath": "D:\\Site Dani\\Front.LesAmies\\Data.LesAmies\\Data.LesAmies.csproj",
+      "projectPath": "D:\\Site Dani\\Lesamies\\Data.LesAmies\\Data.LesAmies.csproj",
       "packagesPath": "C:\\Users\\JoaoI\\.nuget\\packages\\",
-      "outputPath": "D:\\Site Dani\\Front.LesAmies\\Data.LesAmies\\obj\\",
+      "outputPath": "D:\\Site Dani\\Lesamies\\Data.LesAmies\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
