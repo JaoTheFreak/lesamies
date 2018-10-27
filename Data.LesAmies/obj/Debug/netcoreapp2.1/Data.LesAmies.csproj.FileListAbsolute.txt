@@ -1,0 +1,6 @@
+D:\Site Dani\Front.LesAmies\Data.LesAmies\bin\Debug\netcoreapp2.1\Data.LesAmies.deps.json
+D:\Site Dani\Front.LesAmies\Data.LesAmies\bin\Debug\netcoreapp2.1\Data.LesAmies.dll
+D:\Site Dani\Front.LesAmies\Data.LesAmies\obj\Debug\netcoreapp2.1\Data.LesAmies.csprojAssemblyReference.cache
+D:\Site Dani\Front.LesAmies\Data.LesAmies\obj\Debug\netcoreapp2.1\Data.LesAmies.csproj.CoreCompileInputs.cache
+D:\Site Dani\Front.LesAmies\Data.LesAmies\obj\Debug\netcoreapp2.1\Data.LesAmies.AssemblyInfoInputs.cache
+D:\Site Dani\Front.LesAmies\Data.LesAmies\obj\Debug\netcoreapp2.1\Data.LesAmies.AssemblyInfo.cs
